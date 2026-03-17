@@ -252,7 +252,7 @@ function App() {
               </table>
 
               <h2 className="text-xl font-semibold mt-4 mb-2">Guide</h2>
-              <p className="text-gray-300">Guide Name: Divya Sarabudla</p>
+              <p className="text-gray-300">Guide Name: Mr. K. Kishore</p>
               {/* <p className="text-gray-300">Guide Signature: ___________</p> */}
             </div>
           </div>
